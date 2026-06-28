@@ -1,4 +1,10 @@
-<img src="https://github.com/user-attachments/assets/b8d6f342-c18b-492e-b87f-06755f775c5f" alt="Canopy Logo" width="500"/>
+make docker/build
+make docker/up-fast
+make docker/logs
+
+or simply
+
+make docker/up && make docker/logs<img src="https://github.com/user-attachments/assets/b8d6f342-c18b-492e-b87f-06755f775c5f" alt="Canopy Logo" width="500"/>
 
 _Official golang implementation of the Canopy Network Protocol_
 
